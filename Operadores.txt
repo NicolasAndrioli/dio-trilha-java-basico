@@ -1,0 +1,9 @@
+! para dizer que uma variavel é falsa
+
++, - , / , *
+
+operador ternario funciona para escolher entre dois valores( funciona como um if e else)
+
+
+utiliza-se ? :
+
