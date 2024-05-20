@@ -1,12 +1,19 @@
 public class OperadorTernario {
     public static void main(String[] args) {
-        int a, b;
+        int numero1 = 1;
+        int numero2 = 2;
 
-        a = 6;
-        b = 6;
+        boolean simNao = numero1 == numero2;
 
-        String resultado = a==b ?"verdadeiro" : "falso";
-        System.out.println(resultado);
+        System.out.println("numeroUm é igual a numeroDois? " + simNao);
+
+        simNao = numero1 != numero2;
+
+        System.out.println("numeroUm é diferente do numeroDois? " + simNao);
+
+        simNao = numero1 <= numero2;
+
+        System.out.println("numeroUm é menor que o numeroDois? " + simNao);
 
     }
 }
