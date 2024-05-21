@@ -7,3 +7,24 @@ operador ternario funciona para escolher entre dois valores( funciona como um if
 
 utiliza-se ? :
 
+
+== significa se os dois valores sao iguais
+
+!= se sao diferentes
+
+> maior que
+ 
+< menor que
+
+>= maior ou igual que
+
+<= menor ou igual que
+
+para objetos ( strings) é mais interessante utilizar equals.
+
+
+Operadores lógicos
+
+&& valida se as duas condiçoes sao verdadeiras
+
+e o Ou verifica se uma das duas sao
